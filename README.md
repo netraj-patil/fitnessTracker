@@ -1,0 +1,2 @@
+This project is a personal learning exercise based on a YouTube tutorial. It's intended to reinforce my understanding of machine learning concept or technique.
+Youtube tutorial : https://www.youtube.com/playlist?list=PL-Y17yukoyy0sT2hoSQxn1TdV0J7-MX4K
